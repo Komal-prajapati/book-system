@@ -20,7 +20,7 @@
 
 ### **API Endpoints**
 - `GET /api/books`: Fetch all books.  
-- `POST /api/books`: Add a new book.  
+- `POST /api/books/add`: Add a new book.  
 - `GET /api/export`: Export book data as a CSV file.  
 
 ---
