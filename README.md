@@ -35,14 +35,14 @@
 
 1. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/Komal-prajapati/book-inventory.git
+   git clone https://github.com/Komal-prajapati/book-system.git
    cd book-system
    ```
 
 2. **Backend Setup**:  
    - Navigate to the backend folder:  
      ```bash
-     cd backend
+     cd frontend/backend
      ```
    - Start the backend server:  
      ```bash
