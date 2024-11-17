@@ -1,0 +1,16 @@
+# Node.js (Frontend)
+/node_modules/
+.env
+
+# Python (Backend)
+backend/__pycache__/
+backend/*.pyc
+backend/instance/
+backend/.env
+
+# Logs
+logs/
+*.log
+
+# System Files
+.DS_Store
