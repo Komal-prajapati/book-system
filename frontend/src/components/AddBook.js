@@ -27,6 +27,13 @@ function AddBook({ setBooks, fetchBooks }) {
         icon: 'success',
         confirmButtonText: 'OK',
       });
+      setNewBook({
+        title: '',
+        author: '',
+        genre: '',
+        publication_date: '',
+        ISBN: '',
+      }); // Reset form
     } catch (error) {
       console.error('Error adding book:', error);
       Swal.fire({
